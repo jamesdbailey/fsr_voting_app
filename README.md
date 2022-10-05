@@ -1,3 +1,6 @@
+This code is based on the Full Stack React Book and source code. [Full Stack React Book](https://www.newline.co/fullstack-react). Modified to use modern ReactJS principles like hooks and arrow functions instead of class React.Component.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
